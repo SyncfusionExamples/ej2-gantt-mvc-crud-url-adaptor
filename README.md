@@ -1,11 +1,14 @@
-# EJ2-Gantt-MVC-CRUD-URL-ADAPTOR
-This project will explain how to perform CRUD operations in EJ2 MVC Gantt with URL adapter web service
+# ASP.NET MVC Gantt - CRUD URL ADAPTOR
 
-## Steps to Run the sample
+This sample explains about how to perform CRUD operations in ASP.NET MVC Gantt with URL adapter web service.
 
-This project requires the below assembly dependencies to run. 
-* Syncfusion.EJ2
-Include this dll from Essential studio installed location or from online nuget packages. 
+## Prerequisites
 
-This sample also requires SQL server database to process data source to Gantt. Please check the below documentation for more details about this sample.
-https://ej2.syncfusion.com/aspnetmvc/documentation/gantt/getting-started/#url-adaptor
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
